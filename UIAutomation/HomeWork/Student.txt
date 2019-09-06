@@ -1,0 +1,3 @@
+jack,28,Student
+rose,38,Teacher
+jerry,35,Basketball player
